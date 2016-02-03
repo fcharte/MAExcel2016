@@ -1,0 +1,15 @@
+Cultivo             Superficie (ha)
+Trigo               53994657
+Arroz en Cáscara    614453
+Cebada              29283399
+Maíz                13255122
+Centeno             8555737
+Avena               8096907
+Mijo                1029285
+Sorgo               154545
+Alforfón            1538326
+Triticale           1865252
+Alpiste             2207
+Cereales Mezclados  1770317
+Cereales nep        114332
+Patatas             9144628
