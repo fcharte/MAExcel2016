@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Cultivos.xsd" generated="2003-12-08T11:12:20">
+<Cultivos>
+<Cultivo>Trigo</Cultivo>
+<Superficie>53994657</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Arroz en Cáscara</Cultivo>
+<Superficie>614453</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Cebada</Cultivo>
+<Superficie>29283399</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Maíz</Cultivo>
+<Superficie>13255122</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Centeno</Cultivo>
+<Superficie>8555737</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Avena</Cultivo>
+<Superficie>8096907</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Mijo</Cultivo>
+<Superficie>1029285</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Sorgo</Cultivo>
+<Superficie>154545</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Alforfón</Cultivo>
+<Superficie>1538326</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Triticale</Cultivo>
+<Superficie>1865252</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Alpiste</Cultivo>
+<Superficie>2207</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Cereales Mezclados</Cultivo>
+<Superficie>1770317</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Cereales nep</Cultivo>
+<Superficie>114332</Superficie>
+</Cultivos>
+<Cultivos>
+<Cultivo>Patatas</Cultivo>
+<Superficie>9144628</Superficie>
+</Cultivos>
+</dataroot>

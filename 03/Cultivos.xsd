@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xsd:schema targetNamespace="http://schemas.microsoft.com/office/infopath/2003/myXSD/2003-12-07T21:47:32" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2003-12-07T21:47:32" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <xsd:attribute name="Superficie" type="xsd:double"/>
+  <xsd:element name="Cultivos">
+	<xsd:complexType>
+		<xsd:sequence>
+			<xsd:element name="Cultivo" minOccurs="0" maxOccurs="unbounded"/>
+                        <xsd:element name="Superficie" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+  </xsd:element>
+</xsd:schema>
